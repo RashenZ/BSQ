@@ -1,8 +1,8 @@
 # BSQ
 
-You must find the largest possible square on a board while avoiding obstacles.
-The board is represented by a file passed as the program’s argument, respecting those constraints:
-•  its first line contains the number of lines on the board (and only that),
+You must find the largest possible square on a board while avoiding obstacles.\n
+The board is represented by a file passed as the program’s argument, respecting those constraints:\n
+•  its first line contains the number of lines on the board (and only that),\n
 •  "." (representing an empty place) and "o" (representing an obstacle) are the only two allowed characters for the
 other lines,
 •  all of the lines will be the same length (except the first one),
